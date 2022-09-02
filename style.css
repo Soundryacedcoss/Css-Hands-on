@@ -165,8 +165,9 @@ h2 {
   .penguin-top {
     top: 10%;
     left: 25%;
-    background: var(--penguin-skin, gray);
-    background: var(--penguin-skin);
+    /* background: var(--penguin-skin, gray);
+    background: var(--penguin-skin); */
+    background: var(--pengiun-skin,black);
     width: 50%;
     height: 45%;
     border-radius: 70% 70% 60% 60%;
@@ -175,8 +176,9 @@ h2 {
   .penguin-bottom {
     top: 40%;
     left: 23.5%;
-    background: var(--penguin-skin, gray);
-    background: var(--penguin-skin);
+    /* background: var(--penguin-skin, gray);
+    background: var(--penguin-skin); */
+    background: var(--pengiun-skin,black);
     width: 53%;
     height: 45%;
     border-radius: 70% 70% 100% 100%;
