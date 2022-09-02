@@ -336,3 +336,12 @@ h2 {
     height: 200px;
     width:200px;
   }
+  :root {
+    /* Only change code below this line */
+--penguin-belly:pink;
+    /* Only change code above this line */
+  }
+
+  body {
+    background: var(--penguin-belly, #c6faf1);
+  }
