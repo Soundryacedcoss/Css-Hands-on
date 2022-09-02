@@ -86,5 +86,7 @@ h2 {
     background-color: red;
     margin: 20px 40px 20px 40px;
     padding: 1.5em;
-
+  }
+  body {
+    background-color: black;
   }
