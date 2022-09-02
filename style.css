@@ -31,3 +31,7 @@ h2 {
   .thick-green-border{
     border-radius:10px;
   }
+  .smaller-image {
+    width: 100px;
+    border-radius:50%
+  }
