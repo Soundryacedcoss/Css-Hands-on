@@ -79,3 +79,6 @@ h2 {
     border-width: 5px;
     text-align: center;
   }
+  [type='checkbox'] {
+    margin: 10px 0px 15px 0px;
+  }
